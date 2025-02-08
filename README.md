@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander Vestergaard Eriksen
 - 👀 I’m interested in everything and all things programming related!
-- 🌱 I’m currently learning Networking with Mirror & Unity!
+- 🌱 I’m currently learning about Microservices & .NET Aspire!
 - 📫 How to reach me, you can send me an email at alexanderv.eriksen@gmail.com.
 
 <!---
